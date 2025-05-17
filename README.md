@@ -4,6 +4,7 @@ This project is a simple HTTP server built using Node.js core modules (`http` an
 
 ## 📁 Project Structure
 
+```
 project-root/
 ├── views/
 │ ├── index.html
@@ -11,6 +12,7 @@ project-root/
 │ ├── contact-me.html
 │ └── 404.html
 └── server.js
+```
 
 ## 🚀 Features
 
